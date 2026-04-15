@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://w-he-corp.github.io/de-watch-market-01/sitemap.xml
